@@ -1,0 +1,15 @@
+{
+  "name": "bustard",
+  "version": "1.0.0",
+  "description": "Twitter follow automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Mangum",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "vo": "^4.0.2"
+  }
+}
